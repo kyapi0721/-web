@@ -25,7 +25,8 @@ body{
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
 }
 .logo-txt h1 {
-    font-size: 35px;   /* 大きさはここで調整してね */
+    text-align: center;
+    font-size: 40px;   /* 大きさはここで調整してね */
     margin: 0;
     display: flex;
    
