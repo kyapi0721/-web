@@ -42,3 +42,36 @@ body{
     text-align: center;
      margin: 8px;
 }
+.container-service {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.container-service .service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:22%;
+    margin-bottom: 20px;
+}
+.container-service .service img {
+   margin-bottom:20px;
+   width:30%;
+   height:30%;
+
+}
+.container-service .service .ttl {
+   font-weight: bold;
+   font-size:15px;
+}
+.container-service .service a {
+   margin-bottom:20px;
+   background-color: rgba(33, 224, 16, 0.533);
+   padding: 15px 20px 12px;
+}
+.container-service .service .explain{
+    font-size: 15px;
+    margin-bottom:20px;
+
+}
