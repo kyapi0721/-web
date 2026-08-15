@@ -27,6 +27,7 @@ body{
 .logo-txt h1 {
     font-size: 50px;   /* 大きさはここで調整してね */
     margin: 0;
+    display: flex;
     
 }
 
