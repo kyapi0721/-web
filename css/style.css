@@ -6,6 +6,9 @@ body {
 
 /* ===== ヘッダー ===== */
 
+body {
+    margin: 0;
+}
 .logo {
     text-align: center;
     margin-top: 10px;
