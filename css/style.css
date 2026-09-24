@@ -12,9 +12,17 @@ body {
     position: relative;
 }
 
+.logo-txt2 img {
+    width: 90%;
+    max-width: 1000px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
 .logo img {
     width: 100%;
-    height: 30vh;
+    height: auto;
     object-fit: cover;
     display: block;
 }
